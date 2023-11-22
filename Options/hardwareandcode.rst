@@ -41,21 +41,25 @@ comparisons of the different platforms....
 +------------------+-----------+-------+--------------+
 
 .. list-table:: Comparison
-   :widths: 20 10 10 15
+   :widths: 20 10 10 15 20
    :header-rows: 1
+   :class: tight-table
 
    * - Platform
      - Self-Contained?
      - Cost
      - Flexibility
+     - Description
    * - Raspberry Pi
      - No
      - $30 
      - Limitless
+     - Mini computer
    * - Lego Mindstorms
      - Yes
      - $350
      - Medium
+     - Lego robotics system with motors and sensors.
 
 .. csv-table:: Comparison
    :header: Platform,Self-Contained?,Cost,Flexibility
