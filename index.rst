@@ -12,7 +12,7 @@ own lives, but also *create or
 strengthen* some lasting 
 **bonds between you and them.**
 
-Some content from VSCode. More content.
+Some content from VSCode. More content. Adding even more content.
 
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
