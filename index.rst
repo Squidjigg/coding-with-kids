@@ -14,6 +14,8 @@ strengthen* some lasting
 
 Some content from VSCode. More content. Adding even more content.
 
+Here is a **shiny** new note.
+
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
 ``terms`` that will expand your horizons and 
