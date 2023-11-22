@@ -12,6 +12,8 @@ own lives, but also *create or
 strengthen* some lasting 
 **bonds between you and them.**
 
+Some content from VSCode.
+
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
 ``terms`` that will expand your horizons and 
